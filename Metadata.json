@@ -1,0 +1,20 @@
+{
+    "Author": "Micka\u00ebl LOPES",
+    "ContentSize": 2070,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/setazurewebappalwayson/master/Set-AzureWebApp-AlwaysOn.ps1",
+    "DownloadCount": 609,
+    "Id": "Set-AzureWebApp-AlwaysOn-b069ce0e",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 532,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-6-9T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script can be used during code deployment in Microsoft Azure WebApp. It be design to force AlwaysOn activation and It supports Slot deployment.You can set multiples params :[-ResourceGroupName(Mandatory)] [-WepAppName(Mandatory)] [-AlwaysOn(Mandatory)] [-Slot(Optionnal)]What",
+    "Title": "Set-AzureWebApp-AlwaysOn",
+    "UpdatedDate": "2017-6-9T00:00:00",
+    "Url": "https://github.com/azureautomation/setazurewebappalwayson",
+    "UserTags": "Azure, AlwaysOn, Websites"
+}
